@@ -1,1 +1,2 @@
-# object-oriented-programming-NikolayTsirulev-2-course
+# Лабораторные работы по ООП
+Цирулев Николай, вар 2.
