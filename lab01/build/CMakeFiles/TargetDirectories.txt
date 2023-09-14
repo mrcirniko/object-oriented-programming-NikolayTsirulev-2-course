@@ -1,0 +1,5 @@
+/home/hacker/prog/oop/lab01/build/CMakeFiles/task01.dir
+/home/hacker/prog/oop/lab01/build/CMakeFiles/tests01.dir
+/home/hacker/prog/oop/lab01/build/CMakeFiles/test.dir
+/home/hacker/prog/oop/lab01/build/CMakeFiles/edit_cache.dir
+/home/hacker/prog/oop/lab01/build/CMakeFiles/rebuild_cache.dir

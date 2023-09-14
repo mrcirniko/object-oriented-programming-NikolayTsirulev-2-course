@@ -1,0 +1,98 @@
+Start testing: Sep 15 01:27 MSK
+----------------------------------------------------------
+1/1 Testing: BASIC
+1/1 Test: BASIC
+Command: "/home/hacker/prog/oop/lab01/build/tests01"
+Directory: /home/hacker/prog/oop/lab01/build
+"BASIC" start time: Sep 15 01:27 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 15 tests from 15 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from test_01
+[ RUN      ] test_01.basic_test_set
+[       OK ] test_01.basic_test_set (0 ms)
+[----------] 1 test from test_01 (0 ms total)
+
+[----------] 1 test from test_02
+[ RUN      ] test_02.basic_test_set
+[       OK ] test_02.basic_test_set (0 ms)
+[----------] 1 test from test_02 (0 ms total)
+
+[----------] 1 test from test_03
+[ RUN      ] test_03.basic_test_set
+[       OK ] test_03.basic_test_set (0 ms)
+[----------] 1 test from test_03 (0 ms total)
+
+[----------] 1 test from test_04
+[ RUN      ] test_04.basic_test_set
+[       OK ] test_04.basic_test_set (0 ms)
+[----------] 1 test from test_04 (0 ms total)
+
+[----------] 1 test from test_05
+[ RUN      ] test_05.basic_test_set
+[       OK ] test_05.basic_test_set (0 ms)
+[----------] 1 test from test_05 (0 ms total)
+
+[----------] 1 test from test_06
+[ RUN      ] test_06.basic_test_set
+[       OK ] test_06.basic_test_set (0 ms)
+[----------] 1 test from test_06 (0 ms total)
+
+[----------] 1 test from test_07
+[ RUN      ] test_07.basic_test_set
+[       OK ] test_07.basic_test_set (0 ms)
+[----------] 1 test from test_07 (0 ms total)
+
+[----------] 1 test from test_08
+[ RUN      ] test_08.basic_test_set
+[       OK ] test_08.basic_test_set (0 ms)
+[----------] 1 test from test_08 (0 ms total)
+
+[----------] 1 test from test_09
+[ RUN      ] test_09.basic_test_set
+[       OK ] test_09.basic_test_set (0 ms)
+[----------] 1 test from test_09 (0 ms total)
+
+[----------] 1 test from test_10
+[ RUN      ] test_10.basic_test_set
+[       OK ] test_10.basic_test_set (0 ms)
+[----------] 1 test from test_10 (0 ms total)
+
+[----------] 1 test from test_11
+[ RUN      ] test_11.basic_test_set
+[       OK ] test_11.basic_test_set (0 ms)
+[----------] 1 test from test_11 (0 ms total)
+
+[----------] 1 test from test_12
+[ RUN      ] test_12.basic_test_set
+[       OK ] test_12.basic_test_set (0 ms)
+[----------] 1 test from test_12 (0 ms total)
+
+[----------] 1 test from test_13
+[ RUN      ] test_13.basic_test_set
+[       OK ] test_13.basic_test_set (0 ms)
+[----------] 1 test from test_13 (0 ms total)
+
+[----------] 1 test from test_14
+[ RUN      ] test_14.basic_test_set
+[       OK ] test_14.basic_test_set (0 ms)
+[----------] 1 test from test_14 (0 ms total)
+
+[----------] 1 test from test_15
+[ RUN      ] test_15.basic_test_set
+[       OK ] test_15.basic_test_set (0 ms)
+[----------] 1 test from test_15 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 15 tests from 15 test suites ran. (0 ms total)
+[  PASSED  ] 15 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BASIC" end time: Sep 15 01:27 MSK
+"BASIC" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 15 01:27 MSK
