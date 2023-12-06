@@ -7,7 +7,7 @@ public:
     Array(const Array & a);
     Array(Array&& a) noexcept;
     ~Array();
-    void remove(size_t idx);
+    void remove(size_t index);
     double getTotalArea() const;
     size_t getSize() const;
     void printCenters() const;

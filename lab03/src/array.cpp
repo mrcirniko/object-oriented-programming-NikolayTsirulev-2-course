@@ -44,14 +44,14 @@ size_t Array::getSize() const {
     return _size;
 }
 
-void Array::remove(size_t idx) {
-    if (idx >= _size) {
+void Array::remove(size_t index) {
+    if (index >= _size) {
         throw std::range_error("Out of range");
     }
     Figure** new_data = new Figure*[_size - 1];
     size_t j = 0;
     for (size_t i = 0; i < _size - 1; ++i) {
-        if (i == idx) {
+        if (i == index) {
             ++j;
         }
         new_data[i] = _data[j];

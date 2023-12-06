@@ -7,7 +7,6 @@
 
 class Figure {
 public:
-    //Figure() = default;
     virtual Figure& move(Figure&& other) noexcept = 0;
     virtual Figure& operator = (const Figure& other) = 0;
     virtual bool operator == (const Figure& other) const = 0;
