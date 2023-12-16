@@ -1,0 +1,40 @@
+
+Murder: --------
+Elf Elf1 {0, 50} 
+Knight Knight1 {0, 50} 
+Elf Elf1 killed Knight Knight1
+
+Murder: --------
+Dragon Dragon1 {10, 40} 
+Elf Elf1 {0, 50} 
+Dragon Dragon1 killed Elf Elf1
+
+Murder: --------
+Knight Knight1 {5, 5} 
+Dragon Dragon2 {0, 2} 
+Knight Knight1 killed Dragon Dragon2
+
+Murder: --------
+Dragon Dragon1 {10, 40} 
+Knight Knight2 {25, 35} 
+Dragon Dragon1 killed Knight Knight2
+
+Murder: --------
+Dragon Dragon1 {10, 40} 
+Elf Elf1 {0, 50} 
+Dragon Dragon1 killed Elf Elf1
+
+Murder: --------
+Dragon Dragon3 {80, 90} 
+Elf Elf2 {60, 90} 
+Dragon Dragon3 killed Elf Elf2
+
+Murder: --------
+Knight Knight2 {25, 35} 
+Dragon Dragon1 {10, 40} 
+Knight Knight2 killed Dragon Dragon1
+
+Murder: --------
+Dragon Dragon2 {0, 2} 
+Knight Knight1 {5, 5} 
+Dragon Dragon2 killed Knight Knight1

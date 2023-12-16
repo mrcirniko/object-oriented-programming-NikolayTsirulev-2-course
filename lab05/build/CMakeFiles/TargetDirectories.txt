@@ -1,0 +1,4 @@
+/home/hacker/prog/oop/lab5/build/CMakeFiles/lab05_exe.dir
+/home/hacker/prog/oop/lab5/build/CMakeFiles/lab05_test.dir
+/home/hacker/prog/oop/lab5/build/CMakeFiles/edit_cache.dir
+/home/hacker/prog/oop/lab5/build/CMakeFiles/rebuild_cache.dir
