@@ -1,0 +1,4 @@
+/home/hacker/prog/oop/lab4/build/CMakeFiles/lab04_exe.dir
+/home/hacker/prog/oop/lab4/build/CMakeFiles/lab04_test.dir
+/home/hacker/prog/oop/lab4/build/CMakeFiles/edit_cache.dir
+/home/hacker/prog/oop/lab4/build/CMakeFiles/rebuild_cache.dir
