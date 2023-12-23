@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblab7_lib.a CMakeFiles/lab7_lib.dir/src/npc.cpp.o CMakeFiles/lab7_lib.dir/src/elf.cpp.o CMakeFiles/lab7_lib.dir/src/knight.cpp.o CMakeFiles/lab7_lib.dir/src/dragon.cpp.o CMakeFiles/lab7_lib.dir/main.cpp.o
+/usr/bin/ranlib liblab7_lib.a

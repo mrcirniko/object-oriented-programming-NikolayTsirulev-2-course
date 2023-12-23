@@ -1,0 +1,90 @@
+
+Murder: --------
+2 Knight {0, 0} 
+3 Dragon {1, 1} 
+2 Knight killed 3 Dragon
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf1 {10, 15} 
+3 Dragon killed 1 Elf1
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf2 {15, 10} 
+3 Dragon killed 1 Elf2
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf3 {20, 10} 
+3 Dragon killed 1 Elf3
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf4 {10, 20} 
+3 Dragon killed 1 Elf4
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf5 {20, 15} 
+3 Dragon killed 1 Elf5
+
+Murder: --------
+2 Knight {0, 0} 
+3 Dragon {1, 1} 
+2 Knight killed 3 Dragon
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf1 {10, 15} 
+3 Dragon killed 1 Elf1
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf2 {15, 10} 
+3 Dragon killed 1 Elf2
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf3 {20, 10} 
+3 Dragon killed 1 Elf3
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf4 {10, 20} 
+3 Dragon killed 1 Elf4
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf5 {20, 15} 
+3 Dragon killed 1 Elf5
+
+Murder: --------
+2 Knight {0, 0} 
+3 Dragon {1, 1} 
+2 Knight killed 3 Dragon
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf1 {10, 15} 
+3 Dragon killed 1 Elf1
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf2 {15, 10} 
+3 Dragon killed 1 Elf2
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf3 {20, 10} 
+3 Dragon killed 1 Elf3
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf4 {10, 20} 
+3 Dragon killed 1 Elf4
+
+Murder: --------
+3 Dragon {40, 40} 
+1 Elf5 {20, 15} 
+3 Dragon killed 1 Elf5

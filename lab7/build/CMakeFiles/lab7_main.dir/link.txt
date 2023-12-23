@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab7_main.dir/main.cpp.o -o lab7_main  liblab7_lib.a 
